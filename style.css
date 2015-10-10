@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2015, 5:49:20 PM
+    Author     : Emilie
+*/
+
+#index {
+        background-color: #dfd5d8;
+    
+}
+
+#name {         
+               text-align: center;
+               font-family: Rockwell;
+               font-variant: small-caps;
+               font-weight: lighter;
+               letter-spacing: 2px;
+               padding: -2px;
+               font-size: 35px;
+               
+}
+
+
+#phone,#email {
+        padding: 0px 0px 5px 0px;
+}
+#contact {
+    
+    text-align: center;
+    font-family: calibri;
+    line-height: 2px;
+    padding: 5px 5px 20px 5px;
+}
+
+#mugshot {
+    
+    float: right;
+    
+}
+#mugshot img {
+    height: 150px;
+    width: 140px;
+    
+}
+
+hr {
+	width: 950px;
+	position: relative;
+	border: 0; 
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+	clear: both;
+        top: 10px;
+}
+
+#contact a:link {
+    
+    color: maroon;
+}
+
+#contact a:visited {
+    color: darkmagenta;
+}
+
+#contact a:hover {
+  color: #000;   
+}
+
+/**********   Education  ****************/
+section h2, h3, h4{
+    font-family: calibri;
+    line-height: 2px;
+    
+}
+
+section #major {
+    font-style: italic;
+    font-weight: bold;
+}
