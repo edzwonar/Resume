@@ -86,3 +86,11 @@ section #major {
 section h4 {
     font-style: italic;
 }
+
+#education {
+    float: left;
+}
+
+#date {
+    text-align: right;
+}
