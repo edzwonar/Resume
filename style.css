@@ -71,13 +71,16 @@ hr {
 }
 
 /**********   Education  ****************/
-section h2, h3, h4{
+section {
     font-family: calibri;
     line-height: 2px;
     
 }
 
 section #major {
-    font-style: italic;
     font-weight: bold;
+}
+
+section h4 {
+    font-style: italic;
 }
